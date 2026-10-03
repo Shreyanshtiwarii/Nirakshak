@@ -504,8 +504,9 @@ open http://localhost:5173
 
 ```bash
 # Clone the repository
-git clone https://github.com/Shreyanshtiwarii/Nirakshak.git
-cd Nirakshak
+git clone https://github.com/Void-Hacks-8-0-2/Team-KNS.git
+cd Team-KNS
+# (Or development mirror: git clone https://github.com/Shreyanshtiwarii/Nirakshak.git)
 
 # --- Option A: Quick-Launch Scripts ---
 # Windows
@@ -815,6 +816,18 @@ The application user interface is documented across four core operational views:
 | ![Risk Analysis](docs/screenshots/03-risk-analysis.png)<br/>*3D WebGL syndicate ring visualization with behavioral signal breakdowns* | ![Case Officer](docs/screenshots/04-case-officer.png)<br/>*Bilingual Section 91 CrPC / Section 94 BNSS freeze notice drafting* |
 
 *(Note: If screenshot image assets are not present in your local clone, capture them directly from the running application via the 2-Minute Judge Demo workflow.)*
+
+---
+
+## About Team — Team KNS
+
+Developed with dedication for **Void Hacks() 8.0** under the **Cyber Security & Digital Forensics** track.
+
+| Team Member | Role & Key Contributions | GitHub Profile |
+|:---|:---|:---:|
+| **Anuj Malviya** | **Core Backend & Data Engineering**<br/>• High-throughput columnar ingestion engine (DuckDB / PyArrow)<br/>• Forward temporal money trail tracer & LIFO balance propagation<br/>• Automated statutory freeze requisition & bilingual notice synthesis | [![GitHub](https://img.shields.io/badge/GitHub-AnujMalviya20-181717?style=flat&logo=github)](https://github.com/AnujMalviya20) |
+| **Ishan Singh Tomar** | **Frontend Engineering & Graph Intelligence**<br/>• Interactive 3D WebGL network topology visualization & ring playback<br/>• Reactive investigation dashboard & layer distribution analytics<br/>• Case management & audit-trail export workflows | [![GitHub](https://img.shields.io/badge/GitHub-ishansinghtomar26--oss-181717?style=flat&logo=github)](https://github.com/ishansinghtomar26-oss) |
+| **Shreyansh Tiwari** | **System Architecture & Machine Learning**<br/>• Forensic behavioral rule engine (14 indicator signals)<br/>• Unsupervised anomaly scoring & secondary ML ensemble<br/>• Local security architecture, AES-256 vault & audit integrity | [![GitHub](https://img.shields.io/badge/GitHub-Shreyanshtiwarii-181717?style=flat&logo=github)](https://github.com/Shreyanshtiwarii) |
 
 ---
 
